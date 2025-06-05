@@ -10,8 +10,6 @@ pip install asyncio
 
 pip install PyNaCl
 
-pip install yt-dlp
-
 pip install ffmpeg-python
 
 
